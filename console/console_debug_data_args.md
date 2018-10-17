@@ -7,6 +7,6 @@ changes:
 -->
 * `data` {any}
 * `...args` {any}
+'cnosole.log()'的别名
 
-The `console.debug()` function is an alias for [`console.log()`][].
 
