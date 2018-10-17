@@ -10,3 +10,6 @@ changes:
 This method calls `console.log()` passing it the arguments received.
 Please note that this method does not produce any XML formatting.
 
+此函数调用'console.log()'并传递其接收的参数，
+注意此函数并不输出任何XML格式
+
